@@ -1,1 +1,3 @@
 mock
+google-colab
+SQLAlchemy
